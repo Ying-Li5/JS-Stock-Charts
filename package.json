@@ -9,6 +9,8 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "live-server": "^1.2.1"
+    "chart.js": "^3.9.1",
+    "live-server": "^1.2.1",
+    "require": "^2.4.20"
   }
 }
